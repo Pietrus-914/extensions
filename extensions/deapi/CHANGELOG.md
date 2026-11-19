@@ -1,5 +1,9 @@
 # deAPI Changelog
 
+## [Publish under the deAPI account] - {PR_MERGE_DATE}
+
+- The extension is now published by the official deAPI Raycast account. pietrus-914 stays on as a contributor.
+
 ## [Initial Version] - 2026-11-18
 
 - Generate images, edit images, generate videos and turn text into speech with open-source models.
